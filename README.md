@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carol-andradech&show_icons=true&locale=en&layout=compact" alt="carol-andradech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carol-andradech&show_icons=true&locale=en" alt="carol-andradech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carol-andradech&show_icons=true&locale=en" alt="carol-andradeac" /></p>
