@@ -1,10 +1,11 @@
-<h1 align="center">Oi 👋, Eu sou a Carol Andrade</h1>
-<h3 align="center">24 - Portuguese/English</h3>
+<h1 align="center">Oi👋, Eu sou a Carol Andrade</h1>
+<h3 align="center">24 - Português/English</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ana-carolina-andrade-988635216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-carolina-andrade-988635216" height="30" width="40" /></a>
-<a href="https://instagram.com/carol_andradech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carol_andradech" height="30" width="40" /></a>
+<a href="https://instagram.com/carol_andradeac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carol_andradeac" height="30" width="40" /></a>
+<a href="https://discord.gg/Annabeth#2307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Annabeth#2307" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carol-andradech&show_icons=true&locale=en&layout=compact" alt="carol-andradech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carol-andradeac&show_icons=true&locale=en" alt="carol-andradeac" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carol-andradech&show_icons=true&locale=en" alt="carol-andradech" /></p>
