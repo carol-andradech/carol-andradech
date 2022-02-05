@@ -1,5 +1,7 @@
-## Olá, eu sou a Carol Andrade.
+## Hey, I'm Carol Andrade.
 24 - Português/English
+<p> 🌱 I’m currently learning about Full-Stack Development</p>
+<p>🏫 Student of Information Systems - IFF</p>
 <div align="center">
   <a href="https://github.com/carol-andradech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-andradech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
