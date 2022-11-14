@@ -2,6 +2,9 @@
 24 - Português/English
 <p> 🌱 I’m currently learning about Full-Stack Development</p>
 <p>🏫 Student of Information Systems - IFF</p>
+<p> Lately I've been focusing on solving the Front End Mentor's challenges. Solved ones:</p>
+<a href="https://github.com/carol-andradech/Challenge-OrderSummary"><p>Order Summary: A card for placing payment orders. </p> </a>
+
 <div align="center">
   <a href="https://github.com/carol-andradech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carol-andradech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
