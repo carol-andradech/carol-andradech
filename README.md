@@ -3,13 +3,15 @@
 <p> 🌱 I’m currently learning about Full-Stack Development</p>
 <p>🏫 Student of Information Systems - IFF</p>
 <br>
+<hr>
 <p> Lately I've been focusing on solving the Front End Mentor's challenges. Solved ones:</p>
 <ol> 
   <li> <a href="https://github.com/carol-andradech/Challenge-OrderSummary"><p>Order Summary: A card for placing payment orders. </p> </a> </li> 
-  <li> </li> 
+  <li> <a href="https://github.com/carol-andradech/Challenge-3-column-preview-card-component"><p>3 Column Cards: 3 column cards preview component. </p> </a></li> 
 </ol>
 
-<a href="https://github.com/carol-andradech/Challenge-OrderSummary"><p>Order Summary: A card for placing payment orders. </p> </a>
+<br>
+
 
 <div align="center">
   <a href="https://github.com/carol-andradech">
