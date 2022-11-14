@@ -4,6 +4,11 @@
 <p>🏫 Student of Information Systems - IFF</p>
 <br>
 <p> Lately I've been focusing on solving the Front End Mentor's challenges. Solved ones:</p>
+<ol> 
+  <li> <a href="https://github.com/carol-andradech/Challenge-OrderSummary"><p>Order Summary: A card for placing payment orders. </p> </a> </li> 
+  <li> </li> 
+</ol>
+
 <a href="https://github.com/carol-andradech/Challenge-OrderSummary"><p>Order Summary: A card for placing payment orders. </p> </a>
 
 <div align="center">
