@@ -5,7 +5,7 @@
 
 <br>
 <hr>
-<p> My most important projects:</p>
+<p>⭐ My most important projects:</p>
 <ol> 
   <li> <a href="https://github.com/carol-andradech/dtmoney"><p>React JS - Financial management project. </p> </a> </li> 
   <li> <a href="https://github.com/carol-andradech/rockethelp"><p>React Native - An app for IT services requests. </p> </a></li> 
