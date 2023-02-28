@@ -2,6 +2,17 @@
 25 - Português/English
 <p> 🌱 I’m currently learning about Frond End Development with focus on ReactJs Stack.</p>
 <p>🏫 Student of Information Systems - IFF</p>
+
+<br>
+<hr>
+<p> My most important projects:</p>
+<ol> 
+  <li> <a href="https://github.com/carol-andradech/dtmoney"><p>React JS - Financial management project. </p> </a> </li> 
+  <li> <a href="https://github.com/carol-andradech/rockethelp"><p>React Native - An app for IT services requests. </p> </a></li> 
+   <li> <a href="https://github.com/carol-andradech/Desafio-Task-List"><p>React - A Task List to organize your day, you can add new taks, remove them, or set them as complete.</p> </a></li> 
+</ol>
+
+<br>
 <br>
 <hr>
 <p> Lately I've been focusing on solving the Front End Mentor's challenges. Solved ones:</p>
