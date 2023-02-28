@@ -9,7 +9,8 @@
 <ol> 
   <li> <a href="https://github.com/carol-andradech/dtmoney"><p>React JS - Financial management project. </p> </a> </li> 
   <li> <a href="https://github.com/carol-andradech/rockethelp"><p>React Native - An app for IT services requests. </p> </a></li> 
-   <li> <a href="https://github.com/carol-andradech/Desafio-Task-List"><p>React - A Task List to organize your day, you can add new taks, remove them, or set them as complete.</p> </a></li> 
+   <li> <a href="https://github.com/carol-andradech/Desafio-Task-List"><p>React JS - A Task List to organize your day, you can add new taks, remove them, or set them as complete.</p> </a></li> 
+  <li> <a href="https://github.com/carol-andradech/Desafio-WatchMe"><p>React JS - The Watch me work as a streamer website, showing different categories, rating of the movies and duration.</p> </a></li> 
 </ol>
 
 <br>
