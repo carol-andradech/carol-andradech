@@ -1,6 +1,6 @@
 ## Olá, sou a Ana Carolina Andrade.
 26 - Português/English
-<p> 🌱 Estou atualmente aprendendo desenvolvimento Front End, com foco em React.</p>
+<p> 🌱 Estou me dedicando ao desenvolvimento Front End, com foco em React.</p>
 <p>🏫 Estudante de Sistemas de Informações - IFF</p>
 
 <br>
