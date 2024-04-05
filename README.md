@@ -1,22 +1,22 @@
-## Hey, I'm Carol Andrade.
+## Olá, sou a Ana Carolina Andrade.
 26 - Português/English
-<p> 🌱 I’m currently learning about Frond End Development with focus on ReactJs Stack.</p>
-<p>🏫 Student of Information Systems - IFF</p>
+<p> 🌱 Estou atualmente aprendendo desenvolvimento Front End, com foco em React.</p>
+<p>🏫 Estudante de Sistemas de Informações - IFF</p>
 
 <br>
 <hr>
-<p>⭐ My most important projects:</p>
+<p>⭐ Meus Projetos Mais Importantes:</p>
 <ol> 
-  <li> <a href="https://github.com/carol-andradech/dtmoney"><p>React JS - Financial management project. </p> </a> </li> 
-  <li> <a href="https://github.com/carol-andradech/rockethelp"><p>React Native - An app for IT services requests. </p> </a></li> 
-   <li> <a href="https://github.com/carol-andradech/Desafio-Task-List"><p>React JS - A Task List to organize your day, you can add new taks, remove them, or set them as complete.</p> </a></li> 
-  <li> <a href="https://github.com/carol-andradech/Desafio-WatchMe"><p>React JS - The Watch me work as a streamer website, showing different categories, rating of the movies and duration.</p> </a></li> 
+  <li> <a href="https://github.com/carol-andradech/dtmoney"><p>React JS - Projeto de Gestão Financeira. </p> </a> </li> 
+  <li> <a href="https://github.com/carol-andradech/rockethelp"><p>React Native - Um aplicativo para solicitações de serviços de TI.. </p> </a></li> 
+   <li> <a href="https://github.com/carol-andradech/Desafio-Task-List"><p>React JS - Uma lista de tarefas para organizar o seu dia, onde você pode adicionar novas tarefas, removê-las ou marcá-las como completas.</p> </a></li> 
+  <li> <a href="https://github.com/carol-andradech/Desafio-WatchMe"><p>React JS - O site "Watch me" para streaming, exibindo diferentes categorias, classificação dos filmes e duração.</p> </a></li> 
 </ol>
 
 <br>
 <br>
 <hr>
-<p> Lately I've been focusing on solving the Front End Mentor's challenges. Solved ones:</p>
+<p> Recentemente tenho me dedicado a resolver os desafios do Front End Mentor. Já resolvi alguns:</p>
 <ol> 
   <li> <a href="https://github.com/carol-andradech/Challenge-OrderSummary"><p>Order Summary: A card for placing payment orders. </p> </a> </li> 
   <li> <a href="https://github.com/carol-andradech/Challenge-3-column-preview-card-component"><p>3 Column Cards: 3 column cards preview component. </p> </a></li> 
