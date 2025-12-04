@@ -71,7 +71,7 @@ They refuse payment but accept treats.
 ---
 
 ## 🌐 Find Me  
-**X / Twitter:** [(your handle) ](https://x.com/annabethdev) 
+**X / Twitter:** https://x.com/annabethdev
 **Bluesky:** @annabethh.bsky.social
 **Annabeth Labs:** cozy tools made with heart ✨  
 
